@@ -1,7 +1,7 @@
 {
   "name": "Hours",
   "description": "Time registration that doesn't suck",
-  "repository": "https://github.com/DefactoSoftware/Hours",
+  "repository": "https://github.com/mixedmarketingartist/Hours",
   "logo": "https://raw.githubusercontent.com/DefactoSoftware/Hours/development/app/assets/images/logo.png",
   "keywords": ["hours"],
   "env": {
