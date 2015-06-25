@@ -17,6 +17,6 @@ deploy:
     master: hours-production
     development: hours-staging
   on:
-    repo: DefactoSoftware/Hours
+    repo: mixedmarketingartist/Hours
     branch: development
   run: rake db:migrate
